@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @celagus from Buenos Aires
-- 🤓 I’m always learning about InfoSec and Technology, but I'm specially interested in InfoSec obserbavility matters 🔍👀
+- 🤓 I’m always learning about InfoSec and Technology
+- 💪 I strongly believe in community empowerment through knowledge sharing
 - 📫 Follow me on Twitter @agustincelano or Linkedin in/agustincelano
